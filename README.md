@@ -13,6 +13,7 @@ NovaIGC's Tools Library
 - [改图宝-图片压缩](http://www.gaitubao.com/)
 - [测速网-网速测试](http://www.speedtest.cn/)
 - [MakeGirlsMoe-随机生成二次元老婆](https://make.girls.moe/#/)
+- [Sheepit-Blender的分布式渲染农场](https://www.sheepit-renderfarm.com/)
 
 # 无版权素材网
 
@@ -25,3 +26,5 @@ NovaIGC's Tools Library
 - [ccMixter-加入cc知识共享协议的音效、音乐站](http://ccmixter.org/find-music)
 - [魔王魂-日系音乐音效站](https://maoudamashii.jokersounds.com/list/se2.html)
 - [烈狱庭院-無料音楽素材](http://www.rengoku-teien.com/)
+- [HDRI Haven-无版权HDRI贴图](http://www.rengoku-teien.com/)
+
