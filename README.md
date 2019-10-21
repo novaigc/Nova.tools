@@ -26,5 +26,5 @@ NovaIGC's Tools Library
 - [ccMixter-加入cc知识共享协议的音效、音乐站](http://ccmixter.org/find-music)
 - [魔王魂-日系音乐音效站](https://maoudamashii.jokersounds.com/list/se2.html)
 - [烈狱庭院-無料音楽素材](http://www.rengoku-teien.com/)
-- [HDRI Haven-无版权HDRI贴图](http://www.rengoku-teien.com/)
+- [HDRI Haven-无版权HDRI贴图](https://hdrihaven.com/)
 
