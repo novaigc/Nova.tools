@@ -14,6 +14,7 @@ NovaIGC's Tools Library
 - [测速网-网速测试](http://www.speedtest.cn/)
 - [MakeGirlsMoe-随机生成二次元老婆](https://make.girls.moe/#/)
 - [Sheepit-Blender的分布式渲染农场](https://www.sheepit-renderfarm.com/)
+- [StagePeek-全球201座演唱会场馆2D/3D座位舞台视野模拟器](https://stagepeek.live/zh-CN/)
 
 # 无版权素材网
 
